@@ -9,6 +9,6 @@ authRoutes.post("/login", login)
 
 authRoutes.post("/logout", logout)
 
-authRoutes.post("/check", check)
+// authRoutes.post("/check", check)
 
-export default authRoutes
+export default authRoutes 
